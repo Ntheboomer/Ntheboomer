@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ntheboomer!
 
-I'm a passionate programmer who loves diving into the world of code and technology. My journey in the tech world has been filled with curiosity, continuous learning, and a drive to create innovative solutions.
+I'm a passionate junior programmer who loves diving into the world of code and technology. My journey in the tech world has been filled with curiosity, continuous learning, and a drive to create innovative solutions.
 
 ### 👀 I'm Interested In
 
